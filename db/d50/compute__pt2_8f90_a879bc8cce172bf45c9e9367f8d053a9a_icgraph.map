@@ -1,0 +1,18 @@
+<map id="compute_pt" name="compute_pt">
+<area shape="rect" id="node1" title=" " alt="" coords="820,233,919,260"/>
+<area shape="rect" id="node2" href="$de/dfd/stats_8f90.html#ac0f998d816fbcab93033860c8518ae27" title=" " alt="" coords="131,52,189,78"/>
+<area shape="rect" id="node4" href="$dc/d73/courant__mhd_8f90.html#a11a808a7998da37219f32a3d179e129f" title=" " alt="" coords="633,81,739,108"/>
+<area shape="rect" id="node6" href="$dc/dc9/restart_8f90.html#ad4fffb57e5c0552fc1fcea9f1d3ac8a6" title=" " alt="" coords="451,182,552,209"/>
+<area shape="rect" id="node8" href="$d4/d90/restart__shell_8f90.html#a53d8c5f2b9d38fc89be71b50037d8a4c" title=" " alt="" coords="617,182,755,209"/>
+<area shape="rect" id="node9" href="$db/d03/rhs_8f90.html#a0a0243ac6825d3456cb0b25f8f02e78b" title=" " alt="" coords="665,284,707,310"/>
+<area shape="rect" id="node13" href="$d9/d88/slice_8f90.html#a43965f8f8e04ef485052e12da44dd23f" title=" " alt="" coords="305,334,357,361"/>
+<area shape="rect" id="node14" href="$df/dfb/slice__2dhit_8f90.html#a8246205f84825f207dc97712de1eecf4" title=" " alt="" coords="114,385,206,412"/>
+<area shape="rect" id="node15" href="$d0/dc0/snap3d_8f90.html#a6c6a83701d11f649dcde0718d9f049aa" title=" " alt="" coords="461,436,542,462"/>
+<area shape="rect" id="node16" href="$d8/d85/namespacemod__user.html#a1b99f2fa9c850ed4fc01d7ec53f129af" title=" " alt="" coords="600,233,772,260"/>
+<area shape="rect" id="node3" href="$db/d2b/main_8f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title=" " alt="" coords="5,258,60,285"/>
+<area shape="rect" id="node5" href="$d2/de7/courant_8f90.html#a6b74d93f4c2bb8a1de6fc7be9cdd254a" title=" " alt="" coords="273,120,389,146"/>
+<area shape="rect" id="node7" href="$d1/de0/init__flow_8f90.html#a8c361bda95c4324142d63e72e828a4c9" title=" " alt="" coords="121,182,199,209"/>
+<area shape="rect" id="node10" href="$dc/dcb/time__scheme_8f90.html#a53b481f1ba254cd3c32898c15b74a10f" title=" " alt="" coords="482,284,521,310"/>
+<area shape="rect" id="node11" href="$de/d06/solve__lespdfscalar_8f90.html#a96d40bbc66bd490c82a98976c3494f13" title=" " alt="" coords="260,284,403,310"/>
+<area shape="rect" id="node12" href="$d5/d41/solve__lespdf_8f90.html#a06d511566f3d279e70b51bd498e72842" title=" " alt="" coords="108,284,212,310"/>
+</map>

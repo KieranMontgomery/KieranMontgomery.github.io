@@ -1,0 +1,21 @@
+<map id="mod_lespdf::compute_mean" name="mod_lespdf::compute_mean">
+<area shape="rect" id="node1" title=" " alt="" coords="975,525,1181,552"/>
+<area shape="rect" id="node2" href="$db/d50/compute__pt2_8f90.html#a879bc8cce172bf45c9e9367f8d053a9a" title=" " alt="" coords="824,246,923,273"/>
+<area shape="rect" id="node12" href="$de/d06/solve__lespdfscalar_8f90.html#a96d40bbc66bd490c82a98976c3494f13" title=" " alt="" coords="260,486,403,513"/>
+<area shape="rect" id="node13" href="$d5/d41/solve__lespdf_8f90.html#a06d511566f3d279e70b51bd498e72842" title=" " alt="" coords="108,486,212,513"/>
+<area shape="rect" id="node18" href="$d9/d30/compute__pt_8f90.html#a726fad529ab29e84e1d5399f128056ad" title=" " alt="" coords="820,626,927,653"/>
+<area shape="rect" id="node19" href="$df/d32/lespdfRK_8f90.html#a80c5e32e48119cded1c02294481946c6" title=" " alt="" coords="836,474,911,501"/>
+<area shape="rect" id="node3" href="$de/dfd/stats_8f90.html#ac0f998d816fbcab93033860c8518ae27" title=" " alt="" coords="131,170,189,197"/>
+<area shape="rect" id="node5" href="$dc/d73/courant__mhd_8f90.html#a11a808a7998da37219f32a3d179e129f" title=" " alt="" coords="633,221,739,248"/>
+<area shape="rect" id="node7" href="$dc/dc9/restart_8f90.html#ad4fffb57e5c0552fc1fcea9f1d3ac8a6" title=" " alt="" coords="451,306,552,333"/>
+<area shape="rect" id="node9" href="$d4/d90/restart__shell_8f90.html#a53d8c5f2b9d38fc89be71b50037d8a4c" title=" " alt="" coords="617,322,755,349"/>
+<area shape="rect" id="node10" href="$db/d03/rhs_8f90.html#a0a0243ac6825d3456cb0b25f8f02e78b" title=" " alt="" coords="665,424,707,450"/>
+<area shape="rect" id="node14" href="$d9/d88/slice_8f90.html#a43965f8f8e04ef485052e12da44dd23f" title=" " alt="" coords="305,18,357,45"/>
+<area shape="rect" id="node15" href="$df/dfb/slice__2dhit_8f90.html#a8246205f84825f207dc97712de1eecf4" title=" " alt="" coords="114,69,206,96"/>
+<area shape="rect" id="node16" href="$d0/dc0/snap3d_8f90.html#a6c6a83701d11f649dcde0718d9f049aa" title=" " alt="" coords="461,120,542,146"/>
+<area shape="rect" id="node17" href="$d8/d85/namespacemod__user.html#a1b99f2fa9c850ed4fc01d7ec53f129af" title=" " alt="" coords="600,373,772,400"/>
+<area shape="rect" id="node4" href="$db/d2b/main_8f90.html#a8ec2266d83cd6c0b762cbcbc92c0af3d" title=" " alt="" coords="5,196,60,222"/>
+<area shape="rect" id="node6" href="$d2/de7/courant_8f90.html#a6b74d93f4c2bb8a1de6fc7be9cdd254a" title=" " alt="" coords="273,221,389,248"/>
+<area shape="rect" id="node8" href="$d1/de0/init__flow_8f90.html#a8c361bda95c4324142d63e72e828a4c9" title=" " alt="" coords="121,290,199,317"/>
+<area shape="rect" id="node11" href="$dc/dcb/time__scheme_8f90.html#a53b481f1ba254cd3c32898c15b74a10f" title=" " alt="" coords="482,449,521,476"/>
+</map>

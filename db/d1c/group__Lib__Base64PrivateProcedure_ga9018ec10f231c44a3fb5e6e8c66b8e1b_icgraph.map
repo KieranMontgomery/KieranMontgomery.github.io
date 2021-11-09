@@ -1,0 +1,9 @@
+<map id="lib_base64::encode_bits" name="lib_base64::encode_bits">
+<area shape="rect" id="node1" title="Subroutine for encoding bits (must be multiple of 24 bits) into base64 charcaters code (of length mul..." alt="" coords="232,177,411,203"/>
+<area shape="rect" id="node2" href="$d1/d98/interfacelib__base64_1_1b64__encode.html#a100bee2b9a8adbfcf20c5ed840158dbf" title="Subroutine for encoding array numbers to base64 (I1P)." alt="" coords="5,5,184,47"/>
+<area shape="rect" id="node3" href="$d1/d98/interfacelib__base64_1_1b64__encode.html#a3acd98ea474bf28555fc1988230b4ecb" title="Subroutine for encoding array numbers to base64 (I2P)." alt="" coords="5,71,184,112"/>
+<area shape="rect" id="node4" href="$d1/d98/interfacelib__base64_1_1b64__encode.html#a0ecb97641f78a303ab096440c85d905a" title="Subroutine for encoding array numbers to base64 (I4P)." alt="" coords="5,136,184,177"/>
+<area shape="rect" id="node5" href="$d1/d98/interfacelib__base64_1_1b64__encode.html#a2115c2e4d66deef11ab588b152a73430" title="Subroutine for encoding array numbers to base64 (I8P)." alt="" coords="5,201,184,243"/>
+<area shape="rect" id="node6" href="$d1/d98/interfacelib__base64_1_1b64__encode.html#ade8a0f9ac3f537bac9c1b94a6dac7b8d" title="Subroutine for encoding array numbers to base64 (R4P)." alt="" coords="5,267,184,308"/>
+<area shape="rect" id="node7" href="$d1/d98/interfacelib__base64_1_1b64__encode.html#adb9f4c0776ead432d33086308da975f5" title="Subroutine for encoding array numbers to base64 (R8P)." alt="" coords="5,332,184,373"/>
+</map>

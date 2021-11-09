@@ -1,0 +1,6 @@
+<map id="lib_vtk_io::vtk_ini_xml" name="lib_vtk_io::vtk_ini_xml">
+<area shape="rect" id="node1" title="Function for initializing VTK&#45;XML file. The XML standard is more powerful than legacy one...." alt="" coords="5,56,175,83"/>
+<area shape="rect" id="node2" href="$df/d7f/group__Lib__VTK__IOPrivateProcedure.html#ga8dbfc308784c3c8bd9df19c109aea379" title="Function for getting a free logic unit. The users of @libvtk does not know which is the logical unit:..." alt="" coords="233,5,379,32"/>
+<area shape="rect" id="node3" href="$df/d7f/group__Lib__VTK__IOPrivateProcedure.html#gafa9f16e8ec35260f9674f445f4875700" title="Function for converting lower case characters of a string to upper case ones. @libvtk uses this funct..." alt="" coords="437,81,604,108"/>
+<area shape="rect" id="node4" href="$df/d7f/group__Lib__VTK__IOPrivateProcedure.html#gaa434e582ff875ec599b74dcfd19115c0" title="Subroutine for updating (adding and removing elements into) vtk array." alt="" coords="223,107,389,133"/>
+</map>

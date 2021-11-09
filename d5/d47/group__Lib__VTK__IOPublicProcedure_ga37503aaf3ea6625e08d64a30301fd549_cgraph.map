@@ -1,0 +1,4 @@
+<map id="lib_vtk_io::vtm_ini_xml" name="lib_vtk_io::vtm_ini_xml">
+<area shape="rect" id="node1" title="The VTK_VTM_XML function is used for initializing a VTM (VTK Multiblocks) XML file that is a wrapper ..." alt="" coords="5,5,180,32"/>
+<area shape="rect" id="node2" href="$df/d7f/group__Lib__VTK__IOPrivateProcedure.html#ga8dbfc308784c3c8bd9df19c109aea379" title="Function for getting a free logic unit. The users of @libvtk does not know which is the logical unit:..." alt="" coords="228,5,375,32"/>
+</map>

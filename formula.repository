@@ -1,0 +1,26 @@
+\_form#0=114x15:$[10^{-4931}, 10^{+4931} - 1]$
+\_form#1=104x15:$[10^{-307} , 10^{+307} - 1]$
+\_form#2=94x15:$[10^{-37} , 10^{+37} - 1]$
+\_form#3=86x15:$[-2^{63},+2^{63} - 1]$
+\_form#4=86x15:$[-2^{31},+2^{31} - 1]$
+\_form#5=86x15:$[-2^{15},+2^{15} - 1]$
+\_form#6=76x15:$[-2^{7} ,+2^{7} - 1]$
+\_form#7=123x30:$dc = dc = \sum\limits_{i = 1}^{NC} {nvertex_i }$
+\_form#8=85x11:$dc=8+5=13$
+\_form#9=11x10:$1^\circ$
+\_form#10=11x10:$2^\circ$
+\_form#11=13x10:$3^\circ$
+\_form#12=13x10:$4^\circ$
+\_form#13=11x10:$5^\circ$
+\_form#14=13x10:$6^\circ$
+\_form#15=11x10:$7^\circ$
+\_form#16=13x10:$8^\circ$
+\_form#17=124x29:$offset_c=\sum\limits_{i=1}^{c}{nvertex_i}$
+\_form#18=41x13:$offset_c$
+\_form#19=15x11:$c^{th}$
+\_form#20=48x11:$nvertex_i$
+\_form#21=15x11:$i^{th}$
+\_form#22=130x30:$dc = NC + \sum\limits_{i = 1}^{NC} {nvertex_i }$
+\_form#23=13x10:$dc$
+\_form#24=106x11:$dc=2+8+5=15$
+\_form#25=11x10:$2^\circ $
